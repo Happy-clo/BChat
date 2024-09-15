@@ -94,6 +94,8 @@ B站回复小助手，接入大模型自动回复。
    ```
 
 5. 直接打开`main.py`文件即可运行扫码登录
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
